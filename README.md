@@ -31,7 +31,7 @@ This is a contact list application built with React and Tailwind CSS.
 
 ---
 
-## 📚 Libraries Used
+## Libraries Used
 
 * **React:** The core UI library.
 * **Vite:** The build tool and development server.
